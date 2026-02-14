@@ -5,11 +5,11 @@ interface MemoryBoxesProps {
 }
 
 const memories = [
-  { title: "The First Time", content: "The very first my heart started beating fastly when i saw you entering bus in school...You ran quickly towards bus that smile and that beauty!!I can say that in first fell in love with you by your Beauty" },
-  { title: "That One Laugh", content: "E when you sit infront of my seat and laugh wahhh..I felt like i can live for the life with this laugh...Really i made me blush in the bus!!" },
-  { title: "The Bus Moments", content: "The kind of fights we had in bus are the bestest memories...Beating with legs...Pushing with hands...Saying bye when the stop has came...These memories are like my 7 minutes memories." },
+  { title: "The First Time", content: "The very first time my heart started beating fast when i saw you entering bus in school...You ran quickly towards bus, that smile and that beauty!!. I can say that its the first time i fell in love with you by your Beauty" },
+  { title: "That One Laugh", content: "When you sit infront of my seat and laugh,wahhh..I felt like i can live for the rest of my life with this laugh...Really it made me blush in the bus!!" },
+  { title: "The Bus Moments", content: "The kind of fights we had in bus are the bestest memories...Beating with legs...Pushing with hands...Saying bye when the stop has came...These memories are like my last 7 minutes memories." },
   { title: "The Fights", content: "No matter how many fights we had and how many misunderstandings we had, the never giveupness is the key to our relationship." },
-  { title: "The kiddo Thing", content: "I always see you like my baby girl...like a small sweet cutie papa...you actually do like that only thats your childish behaviour with me make me fall more and more deeper in your love!!" },
+  { title: "The kiddo Thing", content: "I always see you like my baby girl...like a small sweet cutie papa...you actually do like that only, thats your childish behaviour with me make me fall more and more deeper in your love!!" },
   { title: "Us Always", content: "Every second with you is a memory i want to keep forever...we are going to be together for the rest of our lives...and I will never leave your hand" },
 ];
 
